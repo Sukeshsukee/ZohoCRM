@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[CreateModule]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-02-09T14:13:19Z" name="Suite" finished-at="2023-02-09T14:13:19Z" duration-ms="37">
+    <groups>
+    </groups>
+    <test started-at="2023-02-09T14:13:19Z" name="Test" finished-at="2023-02-09T14:13:19Z" duration-ms="37">
+      <class name="com.zohoCrm.testscript.CreateCust">
+        <test-method signature="testCreateModule()[pri:0, instance:com.zohoCrm.testscript.CreateCust@2eae8e6e]" started-at="2023-02-09T14:13:19Z" name="testCreateModule" finished-at="2023-02-09T14:13:19Z" duration-ms="13" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[CreateModule]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCreateModule -->
+      </class> <!-- com.zohoCrm.testscript.CreateCust -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
